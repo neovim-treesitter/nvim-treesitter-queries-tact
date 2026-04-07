@@ -1,7 +1,7 @@
 {
-  "location": null,
   "semver": false,
-  "url": "https://github.com/tact-lang/tree-sitter-tact",
+  "parser_version": "a6267c2091ed432c248780cec9f8d42c8766d9ad",
+  "location": null,
   "lang": "tact",
-  "parser_version": "a6267c2091ed432c248780cec9f8d42c8766d9ad"
+  "url": "https://github.com/tact-lang/tree-sitter-tact"
 }
